@@ -1,0 +1,9 @@
+#frame {
+    width: 200px;
+    height: 200px;
+}
+
+#line {
+    stroke-width: 5px;
+
+}
